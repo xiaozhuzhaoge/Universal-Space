@@ -1,0 +1,16 @@
+[
+{"Id":"1","Name":"Frigga","Rank":"5","Quality":"1","Category":"1","ICON":"1","ATK":"24","INT":"50","DEF":"40","LCK":"15","ADV":"2","RES":"50"},
+{"Id":"2","Name":"Bragi","Rank":"3","Quality":"1","Category":"2","ICON":"2","ATK":"10","INT":"12","DEF":"15","LCK":"50","ADV":"20","RES":"67"},
+{"Id":"3","Name":"Jord","Rank":"2","Quality":"2","Category":"3","ICON":"3","ATK":"1","INT":"41","DEF":"16","LCK":"51","ADV":"8","RES":"3"},
+{"Id":"4","Name":"Idun","Rank":"8","Quality":"2","Category":"4","ICON":"4","ATK":"87","INT":"12","DEF":"17","LCK":"12","ADV":"22","RES":"23"},
+{"Id":"5","Name":"Niord","Rank":"3","Quality":"2","Category":"5","ICON":"5","ATK":"13","INT":"66","DEF":"18","LCK":"5","ADV":"46","RES":"2"},
+{"Id":"6","Name":"Skadi","Rank":"7","Quality":"1","Category":"6","ICON":"6","ATK":"54","INT":"2","DEF":"19","LCK":"3","ADV":"24","RES":"54"},
+{"Id":"7","Name":"Balder","Rank":"2","Quality":"1","Category":"7","ICON":"7","ATK":"15","INT":"95","DEF":"64","LCK":"6","ADV":"56","RES":"55"},
+{"Id":"8","Name":"Hodur","Rank":"6","Quality":"1","Category":"8","ICON":"8","ATK":"16","INT":"4","DEF":"54","LCK":"2","ADV":"99","RES":"45"},
+{"Id":"9","Name":"Freya","Rank":"10","Quality":"4","Category":"9","ICON":"9","ATK":"99","INT":"99","DEF":"99","LCK":"99","ADV":"99","RES":"99"},
+{"Id":"10","Name":"Themis","Rank":"1","Quality":"2","Category":"3","ICON":"10","ATK":"25","INT":"78","DEF":"44","LCK":"23","ADV":"45","RES":"23"},
+{"Id":"11","Name":"Urd","Rank":"9","Quality":"3","Category":"8","ICON":"11","ATK":"34","INT":"49","DEF":"24","LCK":"54","ADV":"33","RES":"22"},
+{"Id":"12","Name":"Verdandi","Rank":"9","Quality":"3","Category":"8","ICON":"12","ATK":"32","INT":"67","DEF":"23","LCK":"3","ADV":"11","RES":"1"},
+{"Id":"13","Name":"Skuld","Rank":"9","Quality":"3","Category":"8","ICON":"13","ATK":"65","INT":"51","DEF":"26","LCK":"565","ADV":"5","RES":"47"}
+
+]
